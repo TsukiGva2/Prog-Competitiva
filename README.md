@@ -3,7 +3,7 @@ Treinamento para a OBI junto com a turma 2024/2 do CEUNES
 
 Contribuidores:
   - [Tsukigva2](https://github.com/TsukiGva2)
-  - [Kendeki](https://github.com/Kendeki)
+  - [Tacchin0](https://github.com/Tacchin0)
   - [Venckszz](https://github.com/venckszz)
   - [Rlucas25](https://github.com/rlucas25)
   - [Farraelll](https://github.com/Farraelll)
